@@ -68,3 +68,4 @@ If you are hosting frontend code somewhere without using DFX, you may need to ma
 # bootcamp_dzien2
 # bootcamp_dzien2
 # bootcamp_day2
+# bootcamp_day2
